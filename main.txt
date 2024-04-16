@@ -6,3 +6,5 @@ Option c
 Option d
 Option e
 Option f
+
+New resource
