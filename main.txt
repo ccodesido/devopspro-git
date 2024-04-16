@@ -7,4 +7,8 @@ Option 4
 Option 5
 Option 6
 
+<<<<<<< HEAD
 Otras opciones
+=======
+Other Options
+>>>>>>> 8ac1cf19b6647aec5c405210f387602f1aaef06c
