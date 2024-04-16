@@ -6,5 +6,9 @@ Option c
 Option d
 Option e
 Option f
+<<<<<<< HEAD
 
 New resource
+=======
+Option g
+>>>>>>> 81d147701c0dcd95fd445909c8c263720bf86bc4
